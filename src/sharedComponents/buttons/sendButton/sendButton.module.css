@@ -1,0 +1,22 @@
+.sendButton {
+  color: #fff;
+  font-size: 18px;
+  line-height: 30px;
+  margin-top: 20px;
+  width: 140px;
+  height: 40px;
+  border: 0;
+  background: linear-gradient(180deg, #45a6ff 0%, #0055fb 100%), #c4c4c4;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.sendButton:hover {
+  background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.15),
+      rgba(255, 255, 255, 0.15)
+    ),
+    linear-gradient(180deg, #45a6ff 0%, #0055fb 100%), #c4c4c4;
+}

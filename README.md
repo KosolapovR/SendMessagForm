@@ -1,2 +1,0 @@
-# SendMessagForm
-Created with CodeSandbox

@@ -1,0 +1,24 @@
+.textAreaField {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+
+.input_wrapper {
+  border: 1px solid #dddddd;
+  padding: 4px 10px;
+  border-radius: 5px;
+}
+
+label {
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.6);
+}
+textarea {
+  outline: none;
+  width: 100%;
+  border: 0;
+  font-size: 16px;
+  line-height: 25px;
+  min-height: 140px;
+  resize: none;
+}

@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  font-family: "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  background: #e5e5e5;
+  min-height: 100vh;
+  max-width: 960px;
+  max-height: 1255px;
+  margin: 0 auto;
+  padding: 40px 80px;
+}
+
+.content_wrapper {
+  max-width: 800px;
+  min-width: 400px;
+  margin: 0 auto;
+}

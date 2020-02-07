@@ -1,0 +1,38 @@
+.input_name_email {
+  margin-top: 10px;
+  margin-bottom: 14px;
+}
+
+.input_name_email_wrapper {
+  display: flex;
+  width: 100%;
+  height: 40px;
+  margin-top: 5px;
+}
+.input_wrapper {
+  width: 50%;
+  border: 1px solid #dddddd;
+  padding: 4px 10px;
+}
+
+.input_wrapper:nth-child(1) {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-right: 0;
+}
+
+.input_wrapper:nth-child(2) {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+label {
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.6);
+}
+input {
+  outline: none;
+  width: 100%;
+  border: 0;
+  font-size: 18px;
+  line-height: 30px;
+}
